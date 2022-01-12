@@ -1,0 +1,12 @@
+
+#results{
+  width:800px;
+  max-width: 80%;
+  margin:0 auto;
+  margin-top: 30px;
+}
+
+#results img{
+  width:100%;
+  height:auto;
+}
